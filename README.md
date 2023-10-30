@@ -1,6 +1,6 @@
 # gdsc_flutter_mycardapp
 
-A new Flutter project.
+A flutter portfolio project we developed at GDSC-METU Flutter weekly sessions.
 
 ## Getting Started
 
